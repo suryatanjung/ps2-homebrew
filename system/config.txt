@@ -1,0 +1,12 @@
+APP1_ELF=   BOOT.ELF     
+APP1_DESC=  Open PS2 Loader
+
+APP2_ELF=   USBADVN.ELF     
+APP2_DESC=  USB Advance
+
+APP3_ELF=   FCEU.ELF
+APP3_DESC=  FCE Ultra
+
+APP4_ELF=   ULE.ELF
+APP4_DESC=  uLaunch ELF
+
